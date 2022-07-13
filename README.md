@@ -13,8 +13,6 @@ a few more older cars than newer cars sell for 16-27k euros, possibly due to rar
 In old cars there is more variability or more anomalies due to the fact that cars might become more rare, more 'vintage', and thus worth more.
 
 ## How This Model Can Be Made Better
-How could you make your model better? Is there data that you think would be helpful to achieve a higherd R2 value?
-
 We could make the model better by incorporating other variables related to assumptions or conclusions made in our explanatory analysis.
 For instance, we might want to first exclude outliers of old cars that have a high selling price due to rarity or vintageness as opposed to 
 their intrinsic worth (i.e., quality of mechanical system, technological upgrades, more safety features). In this instance, some other variables 
